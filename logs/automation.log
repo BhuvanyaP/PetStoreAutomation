@@ -116,3 +116,11 @@
 22:48:36.0925 [main] INFO  api.test.UserTests2 -****** user is updated **********
 22:48:36.0928 [main] INFO  api.test.UserTests2 -******Deleting user **********
 22:48:38.0350 [main] INFO  api.test.UserTests2 -****** user  deleted **********
+14:56:29.0214 [main] INFO  api.test.UserTests -******Creating user **********
+14:56:32.0758 [main] INFO  api.test.UserTests -*********User is created***********
+14:56:32.0764 [main] INFO  api.test.UserTests -******Reading user info **********
+14:56:34.0326 [main] INFO  api.test.UserTests -****** user info is displayed **********
+14:56:34.0331 [main] INFO  api.test.UserTests -******Updating user **********
+14:56:37.0294 [main] INFO  api.test.UserTests -****** user is updated **********
+14:56:37.0306 [main] INFO  api.test.UserTests -******Deleting user **********
+14:56:38.0832 [main] INFO  api.test.UserTests -****** user  deleted **********
